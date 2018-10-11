@@ -1,0 +1,10 @@
+C:\Users\Shahrukh\Documents\Visual Studio 2013\Projects\smtp client send and receive email\smtp client send and receive email\bin\Debug\smtp client send and receive email.exe.config
+C:\Users\Shahrukh\Documents\Visual Studio 2013\Projects\smtp client send and receive email\smtp client send and receive email\bin\Debug\smtp client send and receive email.exe
+C:\Users\Shahrukh\Documents\Visual Studio 2013\Projects\smtp client send and receive email\smtp client send and receive email\bin\Debug\smtp client send and receive email.pdb
+C:\Users\Shahrukh\Documents\Visual Studio 2013\Projects\smtp client send and receive email\smtp client send and receive email\obj\Debug\smtp client send and receive email.csprojResolveAssemblyReference.cache
+C:\Users\Shahrukh\Documents\Visual Studio 2013\Projects\smtp client send and receive email\smtp client send and receive email\obj\Debug\smtp client send and receive email.csproj.ResolveComReference.cache
+C:\Users\Shahrukh\Documents\Visual Studio 2013\Projects\smtp client send and receive email\smtp client send and receive email\obj\Debug\smtp_client_send_and_receive_email.Form1.resources
+C:\Users\Shahrukh\Documents\Visual Studio 2013\Projects\smtp client send and receive email\smtp client send and receive email\obj\Debug\smtp_client_send_and_receive_email.Properties.Resources.resources
+C:\Users\Shahrukh\Documents\Visual Studio 2013\Projects\smtp client send and receive email\smtp client send and receive email\obj\Debug\smtp client send and receive email.csproj.GenerateResource.Cache
+C:\Users\Shahrukh\Documents\Visual Studio 2013\Projects\smtp client send and receive email\smtp client send and receive email\obj\Debug\smtp client send and receive email.exe
+C:\Users\Shahrukh\Documents\Visual Studio 2013\Projects\smtp client send and receive email\smtp client send and receive email\obj\Debug\smtp client send and receive email.pdb
